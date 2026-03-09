@@ -1,4 +1,10 @@
-# Penguin-species-ml-classifier
+# Penguin Species Classifier
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
+
 
 A simple machine learning project that predicts penguin species using physical measurements such as bill length, bill depth, flipper length, and body mass.
 
@@ -81,6 +87,14 @@ The project includes visualizations to better understand model performance:
 - Confusion matrix heatmap
 
 These plots help illustrate how well the model separates different species.
+
+---
+
+## Model Visualization
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="600">
+</p>
 
 ---
 
