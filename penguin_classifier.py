@@ -104,4 +104,8 @@ disp.plot()
 plt.title("Confusion Matrix for Penguin Species Classification")
 plt.show()
 
+sample_penguin = [[45, 17, 210, 5000]]
 
+prediction = model.predict(sample_penguin)
+
+print("Predicted Penguin Species:", prediction[0])
